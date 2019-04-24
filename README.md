@@ -1,1 +1,1 @@
-[![Build Status](https://travis-ci.com/zhw2590582/sleepy.svg?branch=master)](https://travis-ci.com/zhw2590582/sleepy)
+[![Build Status](https://travis-ci.com/fydy/issue-sleepy.svg?branch=master)](https://travis-ci.com/fydy/issue-sleepy)
