@@ -1,0 +1,10 @@
+node_modules
+.next
+.vscode
+.DS_Store
+*.log
+build
+dist
+backup
+package-lock.json
+yarn.lock

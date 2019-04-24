@@ -1,0 +1,43 @@
+{
+  "name": "sleepy",
+  "version": "1.0.0",
+  "description": "I am sleepy, talk about later.",
+  "scripts": {
+    "start": "next",
+    "create:cname": "touch docs/CNAME && echo \"sleepy.im\" >> docs/CNAME",
+    "build": "next build && next export -o docs && touch docs/.nojekyll && npm run create:cname"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhw2590582/sleepy.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zhw2590582/sleepy/issues"
+  },
+  "homepage": "https://github.com/zhw2590582/sleepy#readme",
+  "devDependencies": {
+    "@babel/plugin-proposal-class-properties": "^7.4.0",
+    "@babel/plugin-proposal-decorators": "^7.4.0",
+    "@zeit/next-css": "^1.0.1",
+    "@zeit/next-sass": "^1.0.1",
+    "autoprefixer": "^9.5.0",
+    "cssnano": "^4.1.10",
+    "next": "^8.0.3",
+    "node-sass": "^4.11.0"
+  },
+  "dependencies": {
+    "dayjs": "^1.8.12",
+    "github-markdown-css": "^3.0.1",
+    "gitting": "^2.1.0",
+    "medium-zoom": "^1.0.4",
+    "mobx": "^5.9.4",
+    "mobx-react": "^5.4.3",
+    "normalize.css": "^8.0.1",
+    "react": "^16.8.6",
+    "react-content-loader": "^4.2.1",
+    "react-dom": "^16.8.6"
+  }
+}
