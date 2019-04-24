@@ -4,7 +4,7 @@
   "description": "I am sleepy, talk about later.",
   "scripts": {
     "start": "next",
-    "create:cname": "touch docs/CNAME && echo \"sleepy.im\" >> docs/CNAME",
+    "create:cname": "touch docs/CNAME && echo \"blog.luolvshi.me\" >> docs/CNAME",
     "build": "next build && next export -o docs && touch docs/.nojekyll && npm run create:cname"
   },
   "repository": {
