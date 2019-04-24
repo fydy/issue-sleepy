@@ -6,11 +6,11 @@ module.exports = {
         copyright: '© 2019 All Rights Reserved. Theme by Sleepy.'
     },
     github: {
-        clientID: "2fa6841ea796af21b439",
-        clientSecret: "4e2196768a4ce9ce143bf2b2ba378efcbd8081f8",
-        repo: "sleepy",
-        owner: "zhw2590582",
-        admin: ["zhw2590582"]
+        clientID: "07a13537d064eb900972",
+        clientSecret: "534295853f33c3f5b3fc80f1b3cdeca28945ce23",
+        repo: "issue-blog",
+        owner: "fydy",
+        admin: ["fydy"]
     },
     baidutongji: '1c0f5055781b8c6f7e0d7800a2f70f53',
     theme: {
