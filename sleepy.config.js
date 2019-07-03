@@ -1,8 +1,8 @@
 module.exports = {
     seo: {
-        title: "老赵茶馆",
-        keywords: "老赵, 茶馆, 前端, 代码, 扯淡, 音乐, 电影, 分享",
-        description: "Hi, 老赵其实不老, 是一枚前端攻城狮, 就这样. QQ群：320881312",
+        title: "行者无境",
+        keywords: "记录, 分享",
+        description: "联系我：github/mail to chunxiaqiu13@gmail.com",
         copyright: '© 2019 All Rights Reserved. Theme by Sleepy.'
     },
     github: {
