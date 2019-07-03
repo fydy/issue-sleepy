@@ -3,7 +3,7 @@ module.exports = {
         title: "行者无境",
         keywords: "记录, 分享",
         description: "联系我：github/mail to chunxiaqiu13@gmail.com",
-        copyright: '© 2019 All Rights Reserved. Theme by Sleepy.'
+        copyright: '© 2019 All Rights Reserved. 行者无境.'
     },
     github: {
         clientID: "07a13537d064eb900972",
