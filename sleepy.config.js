@@ -12,7 +12,7 @@ module.exports = {
         owner: "fydy",
         admin: ["fydy"]
     },
-    baidutongji: '1c0f5055781b8c6f7e0d7800a2f70f53',
+    baidutongji: '50a85c9e5a3774a7c7cc0b0644c3785c',
     theme: {
         banner: '',
         avatar: '',
@@ -21,7 +21,7 @@ module.exports = {
     },
     post: {
         excerpt: 120,
-        pageSize: 5
+        pageSize: 8
     },
     menus: [
         {
