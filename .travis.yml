@@ -3,6 +3,10 @@ language: node_js
 node_js:
   - stable
 
+branches:
+  only:
+    - master
+
 ignore:
   - *.md
   - docs/
@@ -15,10 +19,6 @@ before_script:
 
 script:
   - npm run build
-
-branches:
-  only:
-    - master
 
 deploy:
   provider: pages
