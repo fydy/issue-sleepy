@@ -2,7 +2,7 @@ module.exports = {
     seo: {
         title: "行者无境",
         keywords: "记录, 分享",
-        description: "chunxiaqiu13@gmail.com",
+        description: "yuncme@foxmail.com",
         copyright: '© 2019 All Rights Reserved. 行者无境.'
     },
     github: {
