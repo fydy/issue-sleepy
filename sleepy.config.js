@@ -8,7 +8,7 @@ module.exports = {
     github: {
         clientID: "07a13537d064eb900972",
         clientSecret: "534295853f33c3f5b3fc80f1b3cdeca28945ce23",
-        repo: "issue-blog",
+        repo: "elaw",
         owner: "fydy",
         admin: ["fydy"]
     },
