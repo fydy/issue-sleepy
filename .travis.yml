@@ -16,10 +16,14 @@ before_script:
 script:
   - npm run build
 
+branches:
+  only:
+    - master
+
 deploy:
   provider: pages
   skip-cleanup: true
-  github-token: $GITHUB_TOKENN
+  github-token: $GITHUB_TOKEN
   keep-history: true
   target_branch: master
   on:
